@@ -1,4 +1,13 @@
-﻿using System;
+﻿// Nombre: Fernando Gorostieta Vargas
+// Matrícula: 3065928
+// Nombre del curso: Métodos Numéricos 
+// Nombre del profesor: Lic. Mauricio Cabrera Narváez
+// Módulo: 1
+// Actividad: 1
+// Fecha: 16 de enero de 2024
+// Nombre del programa: ActividadMatematicas
+
+using System;
 
 namespace ActividadMatematicas
 {
